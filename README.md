@@ -8,7 +8,7 @@ Aqui, buscamos alguém que saiba lidar com bases de alta volumetria, tuning de p
 
 ## 🎯 Objetivo do Desafio
 
-Neste repositório temos um dump `.sql` com o nome de banco.zip com as seguintes coisas:
+Neste repositório temos um dump `.sql` com o nome de `banco.zip` com as seguintes coisas:
 - **20 mil clientes**
 - **200 mil pedidos**
 - Dados mal estruturados de propósito
