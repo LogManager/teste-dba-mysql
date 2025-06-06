@@ -90,6 +90,6 @@ Ao finalizar o teste:
 - Um arquivo .md ou .pdf com a explicação técnica das mudanças implementadas
 - Compartilhe o repositório com o usuário do GitHub: grazianilog
 
-Após o compartilhamento, envie o link do repositório por e-mail para: graziani@logmanager.com.br
+Ao finalizar o teste, subir em um reposítorio do github privado e compartilhar com o user grazianilog e Camila-guedesm do github. Após compartilhar enviar a URL do repositório para o e-mail graziani@logmanager.com.br e camila@logmanager.com.br
 
 
