@@ -88,7 +88,7 @@ Ao finalizar o teste:
 - Crie um repositório privado no GitHub com os seguintes arquivos:
 - O novo .sql contendo as alterações realizadas e melhorias de performance
 - Um arquivo .md ou .pdf com a explicação técnica das mudanças implementadas
-- Compartilhe o repositório com o usuário do GitHub: grazianilog
+- Compartilhe o repositório com o usuário do GitHub: grazianilog e Camila-guedesm
 
 Ao finalizar o teste, subir em um reposítorio do github privado e compartilhar com o user grazianilog e Camila-guedesm do github. Após compartilhar enviar a URL do repositório para o e-mail graziani@logmanager.com.br e camila@logmanager.com.br
 
